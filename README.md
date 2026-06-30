@@ -1,62 +1,64 @@
-# Developer Journey
+# 🚀 Developer Journey
 
-Repository where I document my learning process and growth as a software developer.
+Welcome to my **Developer Journey**!
 
-## 🎯 Goal
+This repository documents my hands-on practice as I learn software development. It contains exercises, coding challenges, small projects, and experiments completed throughout my learning path.
 
-Build a strong foundation in programming, web development, software engineering, and blockchain technologies through consistent practice, projects, and technical documentation.
-
----
-
-## 📚 Learning Areas
-
-### Logic and Algorithms
-
-* PSeInt
-* Problem Solving
-* Fundamental Algorithms
-
-### Web Development
-
-* HTML
-* CSS
-* JavaScript
-* React
-
-### Software Engineering
-
-* Architecture
-* Design Patterns
-* Systems Thinking
-
-### Blockchain
-
-* Fundamentals
-* Smart Contracts
-* Solidity
-* Web3
+The goal is to build strong programming fundamentals through consistent practice while tracking my progress over time.
 
 ---
 
-## 🚀 Methodology
+## 📚 Repository Structure
 
-Each topic may include:
+```text
+developer-journey/
+│
+├── 01-programming-logic/
+├── 02-html/
+├── 03-css/
+├── 04-javascript/
+├── 05-react/
+├── 06-python/
+├── projects/
+└── README.md
+```
 
-* Practical exercises
+As I continue learning, new topics and technologies will be added.
+
+---
+
+## 🎯 Goals
+
+* Practice programming consistently.
+* Strengthen problem-solving skills.
+* Apply concepts through exercises.
+* Build good coding habits.
+* Track my growth as a software developer.
+
+---
+
+## 📌 What you'll find here
+
+* Programming exercises
 * Coding challenges
-* Learning notes
-* Mini-projects
-* Technical reflections
+* Practice projects
+* Refactored solutions
+* Personal implementations of programming concepts
 
 ---
 
-## 📈 Long-Term Objective
+## 📖 Notes
 
-Develop the skills required to design, build, and maintain modern software systems, with a particular focus on web development and blockchain technologies.
+This repository contains **my own practice and solutions** created while studying different learning resources. It does not include copyrighted course materials or instructor solutions.
 
 ---
 
-## 📝 Progress
+## 🌱 Learning Philosophy
 
-This repository is continuously updated as part of my daily learning journey.
+> *"Small improvements every day lead to remarkable results over time."*
+
+Every commit represents another step in my journey toward becoming a better software developer.
+
+Happy coding! 💻
+
 
