@@ -1,64 +1,42 @@
-# 🚀 Developer Journey
+# Developer Journey
 
-Welcome to my **Developer Journey**!
+My journey to becoming a Software Engineer.
 
-This repository documents my hands-on practice as I learn software development. It contains exercises, coding challenges, small projects, and experiments completed throughout my learning path.
+This repository documents my hands-on learning through exercises, projects, and study notes while exploring programming, mathematics, and software development.
 
-The goal is to build strong programming fundamentals through consistent practice while tracking my progress over time.
+## Goals
 
----
+- Build a strong programming foundation.
+- Practice problem-solving through coding exercises.
+- Apply concepts by developing projects.
+- Develop a consistent daily coding habit.
+- Track my learning progress in a structured way.
 
-## 📚 Repository Structure
+## Repository Structure
 
 ```text
-developer-journey/
-│
-├── 01-programming-logic/
-├── 02-html/
-├── 03-css/
-├── 04-javascript/
-├── 05-react/
-├── 06-python/
-├── projects/
-└── README.md
+01-programming-logic/
+02-mathematics/
+
+03-html/
+04-css/
+05-javascript/
+
+projects/
 ```
 
-As I continue learning, new topics and technologies will be added.
+## Learning Roadmap
+
+- [ ] Programming Logic
+- [ ] Mathematics
+- [ ] HTML
+- [ ] CSS
+- [ ] JavaScript
+- [ ] Git & GitHub
+- [ ] Python
+- [ ] Blockchain
 
 ---
 
-## 🎯 Goals
-
-* Practice programming consistently.
-* Strengthen problem-solving skills.
-* Apply concepts through exercises.
-* Build good coding habits.
-* Track my growth as a software developer.
-
----
-
-## 📌 What you'll find here
-
-* Programming exercises
-* Coding challenges
-* Practice projects
-* Refactored solutions
-* Personal implementations of programming concepts
-
----
-
-## 📖 Notes
-
-This repository contains **my own practice and solutions** created while studying different learning resources. It does not include copyrighted course materials or instructor solutions.
-
----
-
-## 🌱 Learning Philosophy
-
-> *"Small improvements every day lead to remarkable results over time."*
-
-Every commit represents another step in my journey toward becoming a better software developer.
-
-Happy coding! 💻
-
+*"Every commit is one step forward."*
 
