@@ -3,6 +3,6 @@ Algoritmo CicloRepetirHasta
 	Repetir
 		Imprimir 'Proporcione un numero de 2 digitos:'
 		Leer num
-	Hasta Que num > 9
+	Hasta Que num > 9 Y num < 100
 	Imprimir 'Valor de dos digitos proporcionado: ',num
 FinAlgoritmo
