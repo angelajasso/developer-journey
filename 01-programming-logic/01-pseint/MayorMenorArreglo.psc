@@ -13,7 +13,7 @@ Algoritmo MayorMenorArreglo
 		Si arreglo[i] > mayor Entonces
 			mayor = arreglo[i]
 		SiNo
-			Si arreglo[i] < menor Entoces
+			Si arreglo[i] < menor Entonces
 				menor = arreglo[i]
 			FinSi
 		Fin Si
