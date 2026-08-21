@@ -12,4 +12,32 @@ Algoritmo SumaRenglonesColumnasMatriz
 	matriz[1, 0] = 5
 	matriz[1, 1] = 2
 	matriz[1, 2] = -4
+	suma_renglon = 0
+	Para renglon = 0 Hasta no_renglones - 1 Hacer
+		Para columna = 0 Hasta no_columnas -1  Hacer
+			suma_renglon = suma_renglon + matriz[renglon, columna]
+		Fin Para
+		renglones[renglon] = suma_renglon
+		suma_renglon = 0
+	Fin Para
+	Imprimir 'Arreglo de suma de renglones: '
+	Para indice = 0 Hasta no_renglones -1  Hacer
+		Imprimir Sin Saltar renglones[indice], ' '
+	Fin Para
+	Imprimir ' '
+	
+	suma_columna = 0
+	Para columna= 0 Hasta no_columnas - 1  Hacer
+		Para renglon = 0 Hasta no_renglones -1 Hacer
+			suma_columna = suma_columna + matriz[renglon, columna]
+		Fin Para
+		columnas[columna] = suma_columna
+		suma_columna = 0
+	Fin Para
+	Imprimir 'Arreglo de suma de columnas: '
+	Para indice = 0 Hasta no_columnas - 1 Hacer
+		Imprimir Sin Saltar columnas[indice], ' '
+	Fin Para
+	Imprimir ' '
+	
 FinAlgoritmo
